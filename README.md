@@ -1,4 +1,6 @@
-# NaijaStream Subscription Data Analysis  
+<img width="1024" height="790" alt="NaijaStream Logo" src="https://github.com/user-attachments/assets/ae5b7949-b59e-425d-bd0c-383a907bbde7" />
+
+## NaijaStream Subscription Data Analysis  
 
 ##  Project Overview  
 This project analyzes **NaijaStream’s subscription dataset** of 2,000 records to uncover insights into **revenue, churn, retention, regional distribution, and device usage**. Using Excel, the data was cleaned, normalized for monthly and annual plans, and transformed into a dashboard with pivot tables, KPIs, and visualizations.  
